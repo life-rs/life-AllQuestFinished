@@ -1,0 +1,9 @@
+{
+	"name": "AllQuestFinished",
+	"author": "life",
+	"version": "1.0.0",
+	"license": "MIT",
+	"src": {
+		"src/allquestsfinished.js": "CacheModLoad"
+	}
+}
